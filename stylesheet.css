@@ -1,25 +1,25 @@
-#container{
-    display: flex;
-    justify-content: center;
+#container {
+  display: flex;
+  justify-content: center;
 }
 
-#red{
-    height: 250px;
-    width: 250px;
-    margin: 10px;
-    background-color: red;
+#red {
+  height: 250px;
+  width: 250px;
+  margin: 10px;
+  background-color: red;
 }
 
-#green{
-    height: 250px;
-    width: 250px;
-    margin: 10px;
-    background-color: green;
+#green {
+  height: 250px;
+  width: 250px;
+  margin: 10px;
+  background-color: green;
 }
 
-#blue{
-    height: 250px;
-    width: 250px;
-    margin: 10px;
-    background-color: blue;
+#blue {
+  height: 250px;
+  width: 250px;
+  margin: 10px;
+  background-color: blue;
 }
